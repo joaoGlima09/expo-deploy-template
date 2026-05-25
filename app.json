@@ -14,10 +14,12 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.joaoglima.exerciciotesteunitarios"
+      "bundleIdentifier": "com.joaoglima.exerciciotesteunitarios",
+      "buildNumber": "1"
     },
     "android": {
       "package": "com.joaoglima.exerciciotesteunitarios",
+      "versionCode": 1,
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"

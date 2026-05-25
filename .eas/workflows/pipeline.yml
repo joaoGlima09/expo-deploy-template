@@ -28,6 +28,7 @@ jobs:
 
     params:
       platform: android
+      profile: preview
 
   build_ios:
     needs: [test]
