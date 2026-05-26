@@ -18,7 +18,8 @@
       "buildNumber": "1",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
-      }
+      },
+      "simulator": true
     },
     "android": {
       "package": "com.joaoglima.exerciciotesteunitarios",
